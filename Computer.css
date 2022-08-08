@@ -1,0 +1,94 @@
+*
+{
+    margin: 0;
+    padding:  0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+.cont_h1
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+.cont_2
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.cont_2 p{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+.cont_2 li
+{
+    list-style-position: inside;
+    cursor: pointer;
+    font-size: 20px;
+}
+.cont_2 li:hover{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
+
+.cont_3
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cont_3 h2{
+    color: black;
+    font-style: italic;
+    font-variant: small-caps;
+    text-decoration-line: underline;
+}
+
+.cont_3 h3{
+    color: brown;
+    font-family: sans-serif;
+}
+
+.cont_3 p{
+    font-size: 25px;
+    font-family: cursive;
+}
+span{
+    color: black;
+    font-weight: bolder;
+    font-style: italic;
+}
+summary {
+    list-style: none;
+    text-decoration: none;
+}
+#mother
+{
+    color: red;
+    font-size: 25px;
+}
+#five
+{
+    color: brown;
+}
+
+footer
+{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    background-color: white;
+}
+footer:hover{
+    color: black;
+}
+#name
+{
+    color: green;
+    font-style: italic;
+    cursor: pointer;
+}
+#name:hover{
+    color: white;
+    background-color: black;
+}
