@@ -1,3 +1,4 @@
-# Computer Science related information Website.
+Computer Science related information Website.
 # The link of the project is given below, make sure to visit my website.
-#     Thanks in advance.
+https://muhammad-mukarram-asad.github.io/computer-science/
+Thanks in advance.
